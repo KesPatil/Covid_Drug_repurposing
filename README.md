@@ -6,4 +6,6 @@ alzheimers, parkinson or diabetes.
 
 The idea here is to check if certain drugs could be clustered together based on structural similarity and if results could be inferred to answer the above question.
 
-Again to reiterate, this is strictly an academic exercise attempting a many-more-times a complex problem with a very reduced minimalistic approach.
+The required files are stored under the folder names Files
+
+## Again to reiterate, this is strictly an academic exercise attempting a many-more-times a complex problem with a very reduced minimalistic approach.

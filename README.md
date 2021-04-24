@@ -8,4 +8,4 @@ The idea here is to check if certain drugs could be clustered together based on 
 
 The required files are stored under the folder names Files
 
-## Again to reiterate, this is strictly an academic exercise attempting a many-more-times a complex problem with a very reduced minimalistic approach.
+## Again to reiterate, this is strictly an academic exercise attempting a many-more-times  complex problem with a very reduced minimalistic approach.

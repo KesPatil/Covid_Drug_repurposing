@@ -1,0 +1,49 @@
+Insulin human
+Insulin lispro
+Troglitazone
+Glimepiride
+Acarbose
+Metformin
+Rosiglitazone
+Acetohexamide
+Miglitol
+Chlorpropamide
+Nateglinide
+Tolazamide
+Repaglinide
+Phenformin
+Glyburide
+Glipizide
+Gliclazide
+Pioglitazone
+Gliquidone
+Mitiglinide
+Sitagliptin
+Exenatide
+Pramlintide
+Glisoxepide
+Glymidine
+Tolrestat
+Buformin
+Vidagliptin
+Alogliptin
+Dapaglifozin
+Liraglutide
+Linagliptin
+Canagliflozin
+Glibornuride
+Benfluorex
+Empagliflozin
+Albiglutide
+Dulaglutide
+Lixisenatide
+insulin beef
+Insulin degludec
+gemigliptin
+Tolbutamide
+Rosuvastatin
+Ipragliflozin
+Ertugliflozin
+Evogliptin
+Semaglutide
+SotagliflozinInsulin human
